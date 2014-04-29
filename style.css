@@ -1,0 +1,54 @@
+body {
+	font-family: 'Open Sans';
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	font-size: 20px;
+}
+
+.header {
+	margin-bottom: 10px;
+}
+
+.block {
+	padding: 10px;
+	color: #fff;
+}
+
+.block a {
+	color: #fff;
+}
+
+.red {
+	background: #E24C7A;
+}
+
+.orange {
+	background: #FDA355;
+}
+
+.purple {
+	background: #823FA9;
+}
+
+.blue {
+	background: #349499;
+}
+
+.green {
+	background: #90E14C;
+}
+
+
+h1 {
+	margin: 5px 0px 15px 0px;
+}
+
+.content {
+	display: block;
+	position: relative;
+	width: 35%;
+	margin: auto;
+	text-align: left;
+}
+
