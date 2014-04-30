@@ -15,12 +15,17 @@ body {
 }
 
 .block {
-	padding: 10px;
+	padding: 50px;
+	padding-top: 30px;
 	color: #fff;
 }
 
 .block a {
 	color: #fff;
+}
+
+.block img {
+	margin: 20px;
 }
 
 .red {
